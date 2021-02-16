@@ -1,5 +1,5 @@
 # dogs-cats-classification
-Detecção de piscadas em olhos humanos com Python, OpenCV e dlib.   
+Classificação de gatos e cachorros: uma RNA simplificada com Python e Keras.  
 
 Referência:  
 
