@@ -1,5 +1,5 @@
 # dogs-cats-classification
-Classificação de gatos e cachorros: uma RNA simplificada com Python e Keras.  
+Classificação de cachorros e gatos: uma RNA simplificada com Python e Keras.  
 
 Referência:  
 
